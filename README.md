@@ -1,5 +1,5 @@
-# ml-from-scratch-py
-Developing Machine Learning algorithms without using libraries - Python
+# Machine Learning from Scratch Algo - Python
+Implementing Machine Learning algorithms without using libraries - Python
 
 ## Algorithms:
 
